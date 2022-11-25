@@ -2,7 +2,7 @@
   "Product": {
     "id": {
       "int": 1
-    }
+    },
     "image": {
       "string": "/test.jpg"
     }
