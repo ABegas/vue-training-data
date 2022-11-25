@@ -1,8 +1,14 @@
 {
-  "Product": {
+  {
     "prodId": 1,
     "prodName": "Vel elit euismod",
     "prodPrice": 26,
     "prodImg": "/test.img"
+  },
+  {
+    "prodId": 2,
+    "prodName": "Vel elit euismod",
+    "prodPrice": 24,
+    "prodImg": "/test2.img"
   }
 }
