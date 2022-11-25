@@ -1,6 +1,10 @@
 {
   "Product": {
-    "id": 1,
-    "image": "/test.jpg"
+    "id": {
+      "int": 1
+    }
+    "image": {
+      "string": "/test.jpg"
+    }
   }
 }
