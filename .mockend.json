@@ -1,5 +1,5 @@
 {
-  "product": {
+  "Product": {
     "id": 1,
     "image": "/test.jpg"
   }
