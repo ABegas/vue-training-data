@@ -1,10 +1,16 @@
 {
   "Product": {
-    "id": {
-      "int": 1
+    "product1": {
+      "prodId": 1,
+      "prodName": "Vel elit euismod",
+      "prodPrice": 26,
+      "prodImg": "/test.img"
     },
-    "image": {
-      "string": "/test.jpg"
-    }
+    "product2": {
+      "prodId": 2,
+      "prodName": "Ultricies condimentum imperdiet",
+      "prodPrice": 24,
+      "prodImg": "/test2.img"
+    },
   }
 }
